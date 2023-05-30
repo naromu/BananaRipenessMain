@@ -13,4 +13,4 @@ The project comprises three repositories hosted on GitHub:
 
 3. Flask Server with Trained Models: this is The Flask server repository houses the server-side implementation responsible for hosting the trained models. It can be accessed at the following URL: [Open BananaRipenessEnsembleFlask](https://github.com/naromu/BananaRipenessEnsembleFlask.git). This server interacts with the Android application, receiving requests for banana maturity classification and providing the corresponding predictions.
 
-Lastly, the cloud server used in this project is accessible via the following URL: [Open ServerBananaRipeness](https://ec2-18-205-229-14.compute-1.amazonaws.com:5000/). This cloud server hosts the necessary infrastructure for deploying and running the Flask server and its associated models.
+Lastly, the cloud server used in this project is accessible via the following URL: [Open ServerBananaRipeness](http://ec2-18-205-229-14.compute-1.amazonaws.com:5000/). This cloud server hosts the necessary infrastructure for deploying and running the Flask server and its associated models.
